@@ -23,12 +23,12 @@ repository               : "annaekluge/annaekluge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : ""
   name             : "Anna Kluge"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Researcher"
+  bio              : ""
   location         : "Berlin"
-  employer         : "WZB Berlin Social Science Center"
+  employer         : "WZB Berlin"
   uri              : # URL
   email            : "anna.kluge@wzb.eu" 
 
@@ -45,8 +45,6 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  linkedin         : "https://linkedin.com/in/klugeanna"
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "annaekluge.bluesky.social" # Replace this with you Bluesky username
+  bluesky          : "annaekluge.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "klugeanna"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
